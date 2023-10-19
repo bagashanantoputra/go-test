@@ -4,8 +4,8 @@ import "math/rand"
 
 // IDadu is interface describing what dadu can do
 type IDadu interface {
-	Acak()             //acak dadu
-	Lihat() (sisi int) //lihat permukaan dadu
+	Acak()  
+	Lihat() (sisi int) 
 }
 
 // IDaduFactory is interface to create dadu

@@ -1,6 +1,6 @@
 # Aplikasi Rumah Makan
 
-Aplikasi ini adalah sistem manajemen untuk sebuah rumah makan. Ini memungkinkan pengguna untuk memasukkan pesanan makanan pelanggan, mengeluarkan struk pembelian, serta menghasilkan laporan penghasilan mingguan dan bulanan. Selain itu, aplikasi ini memungkinkan Anda untuk mengelola stok menu.
+Aplikasi ini adalah sistem manajemen untuk sebuah rumah makan. Ini memungkinkan pengguna untuk memasukkan pesanan makanan pelanggan, mengeluarkan struk pembelian, serta menghasilkan laporan penghasilan mingguan dan bulanan. Selain itu, aplikasi ini memungkinkan untuk mengelola stok menu.
 
 ## Struktur Database
 
